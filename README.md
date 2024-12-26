@@ -5,7 +5,7 @@ This is a tool to switch the server in Rainbow Six Siege (R6S). With this tool, 
 
 ## Features
 - **Switch Servers**: Easily change the server region for Rainbow Six Siege.
-  
+
 ## Installation
 
 ### Steps to Install:
@@ -42,4 +42,10 @@ These flags are displayed in the user interface, making it easier to identify th
 ## Troubleshooting
 
 - **Server Change Not Applied**: If the server change does not take effect in the game, try restarting the game after switching the server in the tool.
+
+## **Technologies used**:
+* [Inno Setup](https://jrsoftware.org/isinfo.php) – For creating the Windows installer.
+* [Python](https://www.python.org/) – For scripting the server switcher functionality.
+* [Tkinter](https://wiki.python.org/moin/TkInter) – For creating the graphical user interface (GUI).
+* [PIL (Pillow)](https://python-pillow.org/) – For image handling and flag icons.
 
