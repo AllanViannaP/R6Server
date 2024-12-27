@@ -1,7 +1,11 @@
 # R6Server - Rainbow Six Siege Server Switcher
 > Status: Finished ✔️
 
-This is a tool to switch the server in Rainbow Six Siege (R6S). With this tool, users can easily change the game server without having to manually modify configuration files or settings. It allows players to quickly switch between different regions to improve gameplay experience and connection.
+## About
+This is a tool to switch the server in Rainbow Six Siege (R6). With this tool, users can easily change the game server without having to manually modify configuration files or settings. It allows players to quickly switch between different regions to improve gameplay experience and connection.
+
+![image](https://github.com/user-attachments/assets/2a2618f0-15f5-498e-988b-fd789043a596)
+
 
 ## Features
 - **Switch Servers**: Easily change the server region for Rainbow Six Siege.
@@ -17,9 +21,6 @@ This is a tool to switch the server in Rainbow Six Siege (R6S). With this tool, 
 3. Once the installation is complete, you will have a shortcut to the application in the Start menu and on the Desktop.
 
 4. Open the application and select the server you want to use.
-
-### Directories:
-- The program will be installed in the `C:\Program Files\R6Server` directory by default.
 
 ## Usage
 
